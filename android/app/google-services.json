@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266591214031",
+    "project_id": "playxi",
+    "storage_bucket": "playxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266591214031:android:c03c3bf91f2829abe11aba",
+        "android_client_info": {
+          "package_name": "com.example.play_XI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266591214031-k8329ll31971euio5thbireehvju5bfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.play_XI",
+            "certificate_hash": "4a229355cb72f05bf7d6bcff54df1844eec00be2"
+          }
+        },
+        {
+          "client_id": "266591214031-t2sap1ltda9o3fa371nedkq17cju2nil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLxxL8NYoCoLVVgKcpsdSZt0uW6KfevY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266591214031-t2sap1ltda9o3fa371nedkq17cju2nil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
